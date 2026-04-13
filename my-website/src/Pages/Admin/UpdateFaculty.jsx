@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import toast from 'react-hot-toast';
 import { useCollegeContext } from '../../Context/Context';
-import { Edit3, Image as ImageIcon, Briefcase, GraduationCap, Award, X, ArrowLeft } from 'lucide-react';
+import { Edit3,  Briefcase, GraduationCap, Award, ArrowLeft } from 'lucide-react';
 
 const UpdateFaculty = () => {
     const { id } = useParams(); // URL se faculty ID lene ke liye

@@ -1,5 +1,5 @@
 import React from "react";
-import { Mail, GraduationCap, Award, Briefcase, Building2 } from "lucide-react";
+import {  GraduationCap, Award, Briefcase, Building2 } from "lucide-react";
 import { useCollegeContext } from "../Context/Context";
 import principla_img from '../Images/man_profile.jpg'
 

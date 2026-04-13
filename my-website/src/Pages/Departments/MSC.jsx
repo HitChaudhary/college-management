@@ -2,18 +2,14 @@ import React from "react";
 import { 
   Database, 
   Terminal, 
-  Layers, 
-  Users, 
-  Trophy, 
-  ArrowRight, 
+  
   CheckCircle2,
   Network
 } from "lucide-react";
 import {
   mscHighlights, // Ensure these are defined in your data file
   mscLabs,
-  facultyMembers,
-  topStudentsMsc,
+  
 } from "../../assetes/data";
 
 const MScCAIT = () => {

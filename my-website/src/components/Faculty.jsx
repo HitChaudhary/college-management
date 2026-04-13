@@ -1,8 +1,6 @@
 // src/components/Faculty.jsx
 import React from "react";
 import { Award, Briefcase, GraduationCap } from "lucide-react";
-import { facultyData } from "../assetes/data";
-import { useNavigate } from "react-router-dom";
 import { useCollegeContext } from "../Context/Context";
 
 const Faculty = () => {

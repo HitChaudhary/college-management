@@ -15,7 +15,7 @@ await connectDB();
 
 //middleware
 app.use(cors({
-    origin:"https://college-management-backend-6k4y.onrender.com"
+    origin:["https://college-management-backend-6k4y.onrender.com","http://localhost:3000 "]
 }))
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }))

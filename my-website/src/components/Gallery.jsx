@@ -1,6 +1,5 @@
 import React from 'react';
-import { ExternalLink, Image as ImageIcon, ArrowRight } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { ExternalLink, ArrowRight } from 'lucide-react';
 import { useCollegeContext } from '../Context/Context';
 
 const Gallery = () => {

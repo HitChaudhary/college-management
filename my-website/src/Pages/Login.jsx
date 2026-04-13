@@ -1,4 +1,3 @@
-// src/pages/Login.jsx
 import React, { useState } from "react";
 import { useCollegeContext } from "../Context/Context";
 import toast from "react-hot-toast";

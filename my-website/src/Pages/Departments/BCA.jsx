@@ -3,16 +3,13 @@ import {
   BookOpen, 
   Cpu, 
   Monitor, 
-  Users, 
-  Trophy, 
-  ArrowRight, 
+  
   CheckCircle2
 } from "lucide-react";
 import {
   bcaHighlights,
   bcaLabs,
-  facultyMembers,
-  topStudents,
+  
 } from "../../assetes/data";
 
 

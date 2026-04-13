@@ -3,17 +3,13 @@ import {
   Heart, 
   Globe, 
   HandHelping, 
-  Users, 
-  Trophy, 
-  ArrowRight, 
-  CheckCircle2,
-  Stethoscope
+  
+  CheckCircle2
 } from "lucide-react";
 import {
   mswHighlights,
-  mswFieldWork, // Swapped Labs for FieldWork
-  facultyMembers,
-  topStudentsMsw,
+  mswFieldWork, 
+  
 } from "../../assetes/data";
 
 const MSW = () => {
