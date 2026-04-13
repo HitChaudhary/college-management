@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { NavLink, useLocation } from "react-router-dom";
 import { useCollegeContext } from "../Context/Context";
-import logo from '../Images/tlogo.png'
+
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

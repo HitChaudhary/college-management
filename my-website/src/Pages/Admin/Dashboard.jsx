@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, Image as ImageIcon, FileText, ClipboardCheck, ArrowUpRight } from 'lucide-react';
+import { Users, Image as ImageIcon, FileText, ClipboardCheck } from 'lucide-react';
 import { useCollegeContext } from '../../Context/Context';
 
 const Dashboard = () => {

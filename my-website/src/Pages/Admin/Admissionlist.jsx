@@ -4,11 +4,11 @@ import {
   Trash2,
   Phone,
   Mail,
-  User,
+
   BookOpen,
-  MapPin,
+  
   GraduationCap,
-  Users
+ 
 } from "lucide-react";
 import { useCollegeContext } from "../../Context/Context";
 import toast from "react-hot-toast";

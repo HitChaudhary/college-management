@@ -14,7 +14,9 @@ const app = express();
 await connectDB();
 
 //middleware
-app.use(cors())
+app.use(cors({
+    origin:"https://college-management-backend-6k4y.onrender.com"
+}))
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }))
 

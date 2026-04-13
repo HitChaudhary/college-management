@@ -1,5 +1,4 @@
 import React from 'react';
-import { MessageCircle } from 'lucide-react'; 
 import wpavtar from '../assetes/wpavtar.png'
 
 const WhatsAppButton = () => {

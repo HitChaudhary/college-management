@@ -2,7 +2,7 @@
 import React from 'react';
 import Heroimg from "../Images/Hero_image.png";
 import { useNavigate } from 'react-router-dom';
-import { Award, Users, BookOpen, ArrowRight } from 'lucide-react';
+import {  ArrowRight } from 'lucide-react';
 
 const Hero = () => {
   const navigate = useNavigate();
